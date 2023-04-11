@@ -2,7 +2,7 @@ import pandas as pd
 import sqlite3
 
 
-df = pd.read_csv('objets-trouves-restitution2.csv',delimiter=';')
+df = pd.read_csv('objets-trouves-restitution2.csv',delimiter=',')
 
 conn = sqlite3.connect('bdd.db')
 
