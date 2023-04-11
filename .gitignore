@@ -1,6 +1,7 @@
 # fichier locaux a ignorer
 bdd.db
 objets-trouves-restitution.*
+objets-trouves-restitution2.*
 
 
 # Byte-compiled / optimized / DLL files
